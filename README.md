@@ -1,0 +1,3 @@
+# NearBy-iOS-Application
+NearBy is a Mobile Application which is specially built for Apple iPhone. The application is totally built in Swift language which is used for preparing iOS applications.
+NearBy project is mainly built to achieve the functionality of knowing and finding the places around you. The geographical data fetched using Google Maps must be organized in a specific way to help the user. This task can be obtained by accessing the Google Maps SDK that includes Nearby Search API and Places API in the application. Moreover, the application should be able to help the user to get reviews and photos of the place. 
